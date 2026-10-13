@@ -90,14 +90,3 @@ PDF export can require a LaTeX installation. If it fails, use VS Code/Jupyter's 
 | `genres` | Visible genre/tag text when available |
 | `source_page` | Page from which the record was extracted |
 
-## Suggested final checklist
-- [ ] Reconnaissance PDF (one page)
-- [ ] A working, verified scraper and sample of at least 100 records (if the site permits)
-- [ ] Seven daily raw snapshots or honest documentation of failed/blocked days
-- [ ] Cleaned dataset and SQLite database with two relational tables
-- [ ] Data dictionary and README
-- [ ] Analysis notebook with at least six labelled charts and written interpretations
-- [ ] Exported notebook HTML/PDF as instructed
-- [ ] Final 5–8 page report
-- [ ] 10-minute presentation and 5-minute Q&A preparation
-- [ ] Individual contribution statement PDF
