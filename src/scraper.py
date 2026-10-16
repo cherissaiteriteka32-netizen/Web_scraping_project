@@ -114,7 +114,8 @@ def _first_link(node, selectors: list[str]) -> tuple[str | None, str | None]:
 def parse_game_cell(cell, page_url: str, rank: int, scraped_at: str) -> dict[str, Any] | None:
     """Extract fields from a likely listing card using tolerant selectors."""
     title, href = _first_link(cell, [
-        "a.game_link", ".game_title a", ".title a", "a.title", "a[href*='/games/']"
+        "a.title.game_link", ".game_title a", ".title a", "a.title",
+        "a.game_link", "a[href*='/games/']"
     ])
     if not title:
         # Some card structures place the title in a heading link.
@@ -176,13 +177,19 @@ def extract_listings(html: str, page_url: str, rank_start: int, scraped_at: str)
     next_url = None
     for link in soup.select("a[href]"):
         label = link.get_text(" ", strip=True).lower()
-        classes = " ".join(link.get("class", [])).lower()
+        classes = {value.lower() for value in link.get("class", [])}
         aria = (link.get("aria-label") or "").lower()
-        if "next" in label or "next" in classes or "next" in aria:
-            candidate = urljoin(page_url, link["href"])
-            if urlparse(candidate).netloc.endswith("itch.io"):
-                next_url = candidate
-                break
+        is_next_link = label in {"next", "next page"} or "next_page" in classes or aria in {"next", "next page"}
+        if not is_next_link:
+            continue
+        candidate = urljoin(page_url, link["href"])
+        parsed_candidate = urlparse(candidate)
+        if (
+            parsed_candidate.netloc.lower() in {"itch.io", "www.itch.io"}
+            and parsed_candidate.path.rstrip("/") == urlparse(BASE_URL).path.rstrip("/")
+        ):
+            next_url = candidate
+            break
     return records, next_url, len(cells)
 
 
