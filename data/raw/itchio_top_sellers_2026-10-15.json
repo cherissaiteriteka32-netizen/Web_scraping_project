@@ -1,0 +1,206 @@
+{
+  "project": "DSC2107 Group 8 - itch.io Top Sellers",
+  "scraped_at": "2026-10-15T13:04:54+00:00",
+  "target_items": 500,
+  "records_collected": 15,
+  "pages_requested": 4,
+  "source_url": "https://itch.io/games/top-sellers",
+  "user_agent": "DSC2107-Group8-StudentResearch (contact: cherissaiteriteka32@gmail.com)",
+  "records": [
+    {
+      "scraped_at": "2026-10-15T13:04:54+00:00",
+      "rank": 1,
+      "title": "GIF",
+      "url": "https://puppetcombo.itch.io/nun-massacre",
+      "developer": "Puppet Combo",
+      "developer_url": "https://puppetcombo.itch.io",
+      "price_text": "$4.95",
+      "genres": [
+        "Survival"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-15T13:04:54+00:00",
+      "rank": 2,
+      "title": "GIF",
+      "url": "https://zieelane.itch.io/helping-your-boyfriend",
+      "developer": "Zieelane",
+      "developer_url": "https://zieelane.itch.io",
+      "price_text": null,
+      "genres": [
+        "Visual Novel"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-15T13:04:54+00:00",
+      "rank": 3,
+      "title": "GIF",
+      "url": "https://wick.itch.io/lancer-tactics",
+      "developer": "Olive",
+      "developer_url": "https://wick.itch.io",
+      "price_text": "$20",
+      "genres": [
+        "Strategy"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-15T13:04:54+00:00",
+      "rank": 4,
+      "title": "GIF",
+      "url": "https://elyaradine.itch.io/dressmaker",
+      "developer": "elyaradine",
+      "developer_url": "https://elyaradine.itch.io",
+      "price_text": null,
+      "genres": [
+        "Simulation"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-15T13:04:54+00:00",
+      "rank": 5,
+      "title": "GIF",
+      "url": "https://mortisfox.itch.io/john-doe-plus",
+      "developer": "Scopophobia Studios",
+      "developer_url": "https://mortisfox.itch.io",
+      "price_text": "$1",
+      "genres": [
+        "Visual Novel"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-15T13:04:54+00:00",
+      "rank": 6,
+      "title": "GIF",
+      "url": "https://ninja-muffin24.itch.io/funkin",
+      "developer": "ninjamuffin99",
+      "developer_url": "https://ninja-muffin24.itch.io",
+      "price_text": null,
+      "genres": [
+        "Rhythm"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-15T13:04:54+00:00",
+      "rank": 7,
+      "title": "GIF",
+      "url": "https://puppetcombo.itch.io/pdm",
+      "developer": "Puppet Combo",
+      "developer_url": "https://puppetcombo.itch.io",
+      "price_text": "$2.95",
+      "genres": [
+        "Adventure"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-15T13:04:54+00:00",
+      "rank": 8,
+      "title": "GIF",
+      "url": "https://cutiesai.itch.io/14dayswithyou",
+      "developer": "cutiesai",
+      "developer_url": "https://cutiesai.itch.io",
+      "price_text": null,
+      "genres": [
+        "Visual Novel"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-15T13:04:54+00:00",
+      "rank": 9,
+      "title": "GIF",
+      "url": "https://puppetcombo.itch.io/babysitter-bloodbath",
+      "developer": "Puppet Combo",
+      "developer_url": "https://puppetcombo.itch.io",
+      "price_text": "$2.95",
+      "genres": [
+        "Adventure"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-15T13:04:54+00:00",
+      "rank": 10,
+      "title": "GIF",
+      "url": "https://teamsalvato.itch.io/ddlc",
+      "developer": "Team Salvato",
+      "developer_url": "https://teamsalvato.itch.io",
+      "price_text": null,
+      "genres": [
+        "Visual Novel"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-15T13:04:54+00:00",
+      "rank": 11,
+      "title": "GIF",
+      "url": "https://fymm-game.itch.io/ddp",
+      "developer": "Mr.Ryu",
+      "developer_url": "https://fymm-game.itch.io",
+      "price_text": "Â£17.50",
+      "genres": [
+        "Adventure"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-15T13:04:54+00:00",
+      "rank": 12,
+      "title": "GIF",
+      "url": "https://rosesrot.itch.io/bloodlust-exe",
+      "developer": "rosesrot",
+      "developer_url": "https://rosesrot.itch.io",
+      "price_text": "$13.99",
+      "genres": [
+        "Visual Novel"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-15T13:04:54+00:00",
+      "rank": 13,
+      "title": "GIF",
+      "url": "https://dacuriblue.itch.io/thegardener",
+      "developer": "DacuriBlue",
+      "developer_url": "https://dacuriblue.itch.io",
+      "price_text": "$1",
+      "genres": [
+        "Visual Novel"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-15T13:04:54+00:00",
+      "rank": 14,
+      "title": "GIF",
+      "url": "https://puppetcombo.itch.io/scary-tales-vol-1",
+      "developer": "Puppet Combo",
+      "developer_url": "https://puppetcombo.itch.io",
+      "price_text": "$6.66",
+      "genres": [
+        "Adventure"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-15T13:04:54+00:00",
+      "rank": 15,
+      "title": "GIF",
+      "url": "https://spar0w.itch.io/bigbaddogs",
+      "developer": "spar0w",
+      "developer_url": "https://spar0w.itch.io",
+      "price_text": null,
+      "genres": [
+        "Visual Novel"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    }
+  ]
+}

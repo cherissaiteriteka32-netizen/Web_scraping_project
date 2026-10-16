@@ -1,0 +1,86 @@
+2026-10-15 16:02:20,794 | INFO | robots.txt checked. Target allowed for this User-Agent: True
+2026-10-15 16:02:20,966 | INFO | Requesting page https://itch.io/games/top-sellers (1/30)
+2026-10-15 16:02:23,294 | INFO | Page had 36 possible cards and 8 parsed listings.
+2026-10-15 16:02:26,501 | INFO | Requesting page https://itch.io/games/top-sellers?page=2 (2/30)
+2026-10-15 16:02:28,070 | INFO | Page had 36 possible cards and 1 parsed listings.
+2026-10-15 16:02:31,158 | INFO | Requesting page https://itch.io/games/top-sellers?page=3 (3/30)
+2026-10-15 16:02:32,532 | INFO | Page had 36 possible cards and 6 parsed listings.
+2026-10-15 16:02:35,692 | INFO | Requesting page https://itch.io/games/top-sellers?page=4 (4/30)
+2026-10-15 16:02:38,182 | INFO | Page had 36 possible cards and 0 parsed listings.
+2026-10-15 16:02:38,187 | WARNING | No listings parsed. Check the reconnaissance notebook and selectors; stopping.
+2026-10-15 16:02:38,308 | INFO | Saved raw JSON: data\raw\itchio_top_sellers_2026-10-15.json
+2026-10-15 16:02:38,312 | INFO | Saved raw CSV: data\raw\itchio_top_sellers_2026-10-15.csv
+2026-10-15 16:02:38,314 | INFO | Collected 15 unique listings.
+2026-10-15 16:02:52,503 | INFO | robots.txt checked. Target allowed for this User-Agent: True
+2026-10-15 16:02:52,504 | INFO | Requesting page https://itch.io/games/top-sellers (1/30)
+2026-10-15 16:02:53,250 | INFO | Page had 36 possible cards and 8 parsed listings.
+2026-10-15 16:02:56,293 | INFO | Requesting page https://itch.io/games/top-sellers?page=2 (2/30)
+2026-10-15 16:02:57,243 | INFO | Page had 36 possible cards and 1 parsed listings.
+2026-10-15 16:03:00,244 | INFO | Requesting page https://itch.io/games/top-sellers?page=3 (3/30)
+2026-10-15 16:03:01,452 | INFO | Page had 36 possible cards and 6 parsed listings.
+2026-10-15 16:03:04,454 | INFO | Requesting page https://itch.io/games/top-sellers?page=4 (4/30)
+2026-10-15 16:03:05,411 | INFO | Page had 36 possible cards and 0 parsed listings.
+2026-10-15 16:03:05,411 | WARNING | No listings parsed. Check the reconnaissance notebook and selectors; stopping.
+2026-10-15 16:03:05,434 | INFO | Saved raw JSON: data\raw\itchio_top_sellers_2026-10-15.json
+2026-10-15 16:03:05,439 | INFO | Saved raw CSV: data\raw\itchio_top_sellers_2026-10-15.csv
+2026-10-15 16:03:05,440 | INFO | Collected 15 unique listings.
+2026-10-15 16:04:54,275 | INFO | robots.txt checked. Target allowed for this User-Agent: True
+2026-10-15 16:04:54,276 | INFO | Requesting page https://itch.io/games/top-sellers (1/30)
+2026-10-15 16:04:55,428 | INFO | Page had 36 possible cards and 8 parsed listings.
+2026-10-15 16:04:58,430 | INFO | Requesting page https://itch.io/games/top-sellers?page=2 (2/30)
+2026-10-15 16:04:59,896 | INFO | Page had 36 possible cards and 1 parsed listings.
+2026-10-15 16:05:02,897 | INFO | Requesting page https://itch.io/games/top-sellers?page=3 (3/30)
+2026-10-15 16:05:04,140 | INFO | Page had 36 possible cards and 6 parsed listings.
+2026-10-15 16:05:07,153 | INFO | Requesting page https://itch.io/games/top-sellers?page=4 (4/30)
+2026-10-15 16:05:07,895 | INFO | Page had 36 possible cards and 0 parsed listings.
+2026-10-15 16:05:07,895 | WARNING | No listings parsed. Check the reconnaissance notebook and selectors; stopping.
+2026-10-15 16:05:09,455 | INFO | Saved raw JSON: data\raw\itchio_top_sellers_2026-10-15.json
+2026-10-15 16:05:09,456 | INFO | Saved raw CSV: data\raw\itchio_top_sellers_2026-10-15.csv
+2026-10-15 16:05:09,456 | INFO | Collected 15 unique listings.
+2026-10-16 21:42:31,520 | INFO | robots.txt checked. Target allowed for this User-Agent: True
+2026-10-16 21:42:31,525 | INFO | Requesting page https://itch.io/games/top-sellers (1/30)
+2026-10-16 21:42:33,840 | INFO | Page had 36 possible cards and 36 parsed listings.
+2026-10-16 21:42:36,919 | INFO | Requesting page https://itch.io/games/top-sellers?page=2 (2/30)
+2026-10-16 21:42:38,929 | INFO | Page had 36 possible cards and 36 parsed listings.
+2026-10-16 21:42:41,937 | INFO | Requesting page https://itch.io/games/top-sellers?page=3 (3/30)
+2026-10-16 21:42:43,393 | INFO | Page had 36 possible cards and 36 parsed listings.
+2026-10-16 21:42:46,394 | INFO | Requesting page https://itch.io/games/top-sellers?page=4 (4/30)
+2026-10-16 21:42:47,509 | INFO | Page had 36 possible cards and 36 parsed listings.
+2026-10-16 21:42:50,512 | INFO | Requesting page https://fuzzydweeb.itch.io/cyberpunks-2-next-generation-zx-spectrum-next-2mb (5/30)
+2026-10-16 21:42:52,505 | INFO | Page had 0 possible cards and 0 parsed listings.
+2026-10-16 21:42:52,505 | WARNING | No listings parsed. Check the reconnaissance notebook and selectors; stopping.
+2026-10-16 21:42:52,549 | INFO | Saved raw JSON: data\raw\itchio_top_sellers_2026-10-16.json
+2026-10-16 21:42:52,550 | INFO | Saved raw CSV: data\raw\itchio_top_sellers_2026-10-16.csv
+2026-10-16 21:42:52,551 | INFO | Collected 144 unique listings.
+2026-10-16 21:45:34,513 | INFO | robots.txt checked. Target allowed for this User-Agent: True
+2026-10-16 21:45:34,515 | INFO | Requesting page https://itch.io/games/top-sellers (1/30)
+2026-10-16 21:45:36,025 | INFO | Page had 36 possible cards and 36 parsed listings.
+2026-10-16 21:45:39,029 | INFO | Requesting page https://itch.io/games/top-sellers?page=2 (2/30)
+2026-10-16 21:45:40,104 | INFO | Page had 36 possible cards and 36 parsed listings.
+2026-10-16 21:45:43,106 | INFO | Requesting page https://itch.io/games/top-sellers?page=3 (3/30)
+2026-10-16 21:45:44,060 | INFO | Page had 36 possible cards and 36 parsed listings.
+2026-10-16 21:45:47,064 | INFO | Requesting page https://itch.io/games/top-sellers?page=4 (4/30)
+2026-10-16 21:45:48,053 | INFO | Page had 36 possible cards and 36 parsed listings.
+2026-10-16 21:45:51,056 | INFO | Requesting page https://itch.io/games/top-sellers?page=5 (5/30)
+2026-10-16 21:45:52,239 | INFO | Page had 36 possible cards and 36 parsed listings.
+2026-10-16 21:45:55,240 | INFO | Requesting page https://itch.io/games/top-sellers?page=6 (6/30)
+2026-10-16 21:45:56,300 | INFO | Page had 36 possible cards and 36 parsed listings.
+2026-10-16 21:45:59,302 | INFO | Requesting page https://itch.io/games/top-sellers?page=7 (7/30)
+2026-10-16 21:46:00,420 | INFO | Page had 36 possible cards and 36 parsed listings.
+2026-10-16 21:46:03,420 | INFO | Requesting page https://itch.io/games/top-sellers?page=8 (8/30)
+2026-10-16 21:46:04,728 | INFO | Page had 36 possible cards and 36 parsed listings.
+2026-10-16 21:46:07,730 | INFO | Requesting page https://itch.io/games/top-sellers?page=9 (9/30)
+2026-10-16 21:46:09,092 | INFO | Page had 36 possible cards and 36 parsed listings.
+2026-10-16 21:46:12,092 | INFO | Requesting page https://itch.io/games/top-sellers?page=10 (10/30)
+2026-10-16 21:46:13,269 | INFO | Page had 36 possible cards and 36 parsed listings.
+2026-10-16 21:46:16,271 | INFO | Requesting page https://itch.io/games/top-sellers?page=11 (11/30)
+2026-10-16 21:46:17,427 | INFO | Page had 36 possible cards and 36 parsed listings.
+2026-10-16 21:46:20,429 | INFO | Requesting page https://itch.io/games/top-sellers?page=12 (12/30)
+2026-10-16 21:46:21,718 | INFO | Page had 36 possible cards and 36 parsed listings.
+2026-10-16 21:46:24,760 | INFO | Requesting page https://itch.io/games/top-sellers?page=13 (13/30)
+2026-10-16 21:46:25,855 | INFO | Page had 36 possible cards and 36 parsed listings.
+2026-10-16 21:46:28,858 | INFO | Requesting page https://itch.io/games/top-sellers?page=14 (14/30)
+2026-10-16 21:46:29,878 | INFO | Page had 36 possible cards and 36 parsed listings.
+2026-10-16 21:46:29,928 | INFO | Saved raw JSON: data\raw\itchio_top_sellers_2026-10-16.json
+2026-10-16 21:46:29,929 | INFO | Saved raw CSV: data\raw\itchio_top_sellers_2026-10-16.csv
+2026-10-16 21:46:29,930 | INFO | Collected 500 unique listings.
