@@ -5,8 +5,7 @@ __pycache__/
 venv/
 .ipynb_checkpoints/
 
-# Local data: commit only small, permitted sample files if your lecturer asks
-data/raw/*
+# Preserve dated raw snapshots in GitHub
 data/processed/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep

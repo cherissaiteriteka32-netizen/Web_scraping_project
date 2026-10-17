@@ -84,3 +84,13 @@
 2026-10-16 21:46:29,928 | INFO | Saved raw JSON: data\raw\itchio_top_sellers_2026-10-16.json
 2026-10-16 21:46:29,929 | INFO | Saved raw CSV: data\raw\itchio_top_sellers_2026-10-16.csv
 2026-10-16 21:46:29,930 | INFO | Collected 500 unique listings.
+2026-10-17 11:16:23,174 | INFO | robots.txt checked. Target allowed for this User-Agent: True
+2026-10-17 11:16:23,181 | INFO | Requesting page https://itch.io/games/top-sellers (1/5)
+2026-10-17 11:16:25,564 | INFO | Page had 36 possible cards and 36 parsed listings.
+2026-10-17 11:16:28,569 | INFO | Requesting page https://itch.io/games/top-sellers?page=2 (2/5)
+2026-10-17 11:16:29,961 | INFO | Page had 36 possible cards and 36 parsed listings.
+2026-10-17 11:16:32,965 | INFO | Requesting page https://itch.io/games/top-sellers?page=3 (3/5)
+2026-10-17 11:16:34,878 | INFO | Page had 36 possible cards and 36 parsed listings.
+2026-10-17 11:16:50,570 | INFO | Saved raw JSON: data\raw\itchio_top_sellers_2026-10-17.json
+2026-10-17 11:16:50,571 | INFO | Saved raw CSV: data\raw\itchio_top_sellers_2026-10-17.csv
+2026-10-17 11:16:50,571 | INFO | Collected 100 unique listings.

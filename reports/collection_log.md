@@ -6,7 +6,7 @@ Use the assignment-day schedule in the marking PDF. The dates below assume assig
 |---|---|---|---:|---:|---|---|
 | 1 | 2026-10-15 | Reconnaissance and initial test | N/A | 15 test records | `data_mining.ipynb`; dated raw CSV/JSON | Test only; all saved titles are `GIF`; not an official collection run |
 | 2 | 2026-10-16 | Build and test scraper | N/A | 500 test records | Dated raw CSV/JSON; `logs/collection.log` | Titles and pagination validated; before official collection window; not an official run |
-| 3 | 2026-10-17 | Sample run | At least 100 | Not run | Not run | Verify titles, ranks, timestamps, and pagination; not part of the seven official runs |
+| 3 | 2026-10-17 | Sample run | At least 100 | 100 | `data/raw/itchio_top_sellers_2026-10-17.csv` and `.json`; `logs/collection.log` | Passed: 100 unique listings across 3 pages; ranks 1–100, titles and timestamps validated; robots.txt allowed; not part of the seven official runs |
 | 4 | 2026-10-18 | Daily snapshot 1 of 7 | 500 | Not run | Not run |  |
 | 5 | 2026-10-19 | Daily snapshot 2 of 7 | 500 | Not run | Not run |  |
 | 6 | 2026-10-20 | Daily snapshot 3 of 7 | 500 | Not run | Not run |  |

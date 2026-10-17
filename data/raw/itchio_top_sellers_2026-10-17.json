@@ -1,0 +1,1287 @@
+{
+  "project": "DSC2107 Group 8 - itch.io Top Sellers",
+  "scraped_at": "2026-10-17T08:16:23+00:00",
+  "target_items": 100,
+  "records_collected": 100,
+  "pages_requested": 3,
+  "source_url": "https://itch.io/games/top-sellers",
+  "user_agent": "DSC2107-Group8-StudentResearch (contact: cherissaiteriteka32@gmail.com)",
+  "records": [
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 1,
+      "title": "The Choicer Voicer",
+      "url": "https://yeahmaybe.itch.io/the-choicer-voicer",
+      "developer": "YeahMaybe",
+      "developer_url": "https://yeahmaybe.itch.io",
+      "price_text": "$5",
+      "genres": [],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 2,
+      "title": "Martin: No Filter Fighters (Unofficial Fan Game).",
+      "url": "https://trey2k23.itch.io/martin-no-filter-fighters-unofficial-fan-game",
+      "developer": "Trey2k23",
+      "developer_url": "https://trey2k23.itch.io",
+      "price_text": null,
+      "genres": [
+        "Fighting"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 3,
+      "title": "The Annual Ghost Town Pumpkin Festival",
+      "url": "https://adamgryu.itch.io/pumpkin-carver",
+      "developer": "adamgryu",
+      "developer_url": "https://adamgryu.itch.io",
+      "price_text": null,
+      "genres": [
+        "Simulation"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 4,
+      "title": "HYPERBALLIN' PLAYTEST",
+      "url": "https://redembergames.itch.io/hyperballin",
+      "developer": "RED",
+      "developer_url": "https://redembergames.itch.io",
+      "price_text": null,
+      "genres": [
+        "Platformer"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 5,
+      "title": "The Wrong Way",
+      "url": "https://zestosyt.itch.io/the-wrong-way",
+      "developer": "ZestosYt",
+      "developer_url": "https://zestosyt.itch.io",
+      "price_text": "$2.99",
+      "genres": [
+        "Adventure"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 6,
+      "title": "Azimuth",
+      "url": "https://almost-there-games.itch.io/azimuth",
+      "developer": "Almost There Games",
+      "developer_url": "https://almost-there-games.itch.io",
+      "price_text": null,
+      "genres": [
+        "Racing"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 7,
+      "title": "Tiny Logic",
+      "url": "https://whoismuzzy.itch.io/tinylogic",
+      "developer": "Mazell",
+      "developer_url": "https://whoismuzzy.itch.io",
+      "price_text": "$9.99",
+      "genres": [
+        "Simulation"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 8,
+      "title": "\"Voices Of The Void\" Alpha",
+      "url": "https://mrdrnose.itch.io/votv",
+      "developer": "mrdrnose",
+      "developer_url": "https://mrdrnose.itch.io",
+      "price_text": null,
+      "genres": [
+        "Simulation"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 9,
+      "title": "Tiny Brutalism",
+      "url": "https://placeholders.itch.io/tiny-brutalism",
+      "developer": "Placeholders",
+      "developer_url": "https://placeholders.itch.io",
+      "price_text": "$5",
+      "genres": [],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 10,
+      "title": "Project C.A.R.L",
+      "url": "https://carlragdoll.itch.io/carl",
+      "developer": "CarlRagdoll",
+      "developer_url": "https://carlragdoll.itch.io",
+      "price_text": null,
+      "genres": [
+        "Simulation"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 11,
+      "title": "Night of the Nun... aka Nun Massacre",
+      "url": "https://puppetcombo.itch.io/nun-massacre",
+      "developer": "Puppet Combo",
+      "developer_url": "https://puppetcombo.itch.io",
+      "price_text": "$4.95",
+      "genres": [
+        "Survival"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 12,
+      "title": "Criminally Yours- Ring, Ring DLC",
+      "url": "https://meant-to-bee-studios.itch.io/criminally-yours-ring-ring-dlc",
+      "developer": "Meant to Bee Studios",
+      "developer_url": "https://meant-to-bee-studios.itch.io",
+      "price_text": "$4.99",
+      "genres": [
+        "Visual Novel"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 13,
+      "title": "University Football",
+      "url": "https://dashaunstudios.itch.io/university-football",
+      "developer": "dashaunstudios",
+      "developer_url": "https://dashaunstudios.itch.io",
+      "price_text": "$10",
+      "genres": [
+        "Sports"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 14,
+      "title": "The Freak Circus",
+      "url": "https://garula.itch.io/the-freak-circus",
+      "developer": "Garula",
+      "developer_url": "https://garula.itch.io",
+      "price_text": null,
+      "genres": [
+        "Visual Novel"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 15,
+      "title": "Tyler's Deal",
+      "url": "https://chodex-productions.itch.io/tylers-deal",
+      "developer": "Chodex Productions",
+      "developer_url": "https://chodex-productions.itch.io",
+      "price_text": "$2",
+      "genres": [
+        "Action"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 16,
+      "title": "Dressmaker",
+      "url": "https://elyaradine.itch.io/dressmaker",
+      "developer": "elyaradine",
+      "developer_url": "https://elyaradine.itch.io",
+      "price_text": null,
+      "genres": [
+        "Simulation"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 17,
+      "title": "Lancer Tactics",
+      "url": "https://wick.itch.io/lancer-tactics",
+      "developer": "Olive",
+      "developer_url": "https://wick.itch.io",
+      "price_text": "$20",
+      "genres": [
+        "Strategy"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 18,
+      "title": "Arlasoft Soccer (C64/C128)",
+      "url": "https://arlagames.itch.io/arlasoft-soccer",
+      "developer": "Arlasoft",
+      "developer_url": "https://arlagames.itch.io",
+      "price_text": null,
+      "genres": [
+        "Sports"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 19,
+      "title": "Helping Your Boyfriend",
+      "url": "https://zieelane.itch.io/helping-your-boyfriend",
+      "developer": "Zieelane",
+      "developer_url": "https://zieelane.itch.io",
+      "price_text": null,
+      "genres": [
+        "Visual Novel"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 20,
+      "title": "Empress: Pokemon 2D Arena",
+      "url": "https://omniscye.itch.io/empress-pokemon-2d-arena",
+      "developer": "Omniscye",
+      "developer_url": "https://omniscye.itch.io",
+      "price_text": null,
+      "genres": [
+        "Adventure"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 21,
+      "title": "Silence Is Golden",
+      "url": "https://omnilabstudios.itch.io/silence-is-golden",
+      "developer": "OmniLab Studios",
+      "developer_url": "https://omnilabstudios.itch.io",
+      "price_text": "$4.99",
+      "genres": [
+        "Survival"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 22,
+      "title": "JOHN DOE +",
+      "url": "https://mortisfox.itch.io/john-doe-plus",
+      "developer": "Scopophobia Studios",
+      "developer_url": "https://mortisfox.itch.io",
+      "price_text": "$1",
+      "genres": [
+        "Visual Novel"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 23,
+      "title": "NIGHT OF THE CONSUMERS",
+      "url": "https://germfood.itch.io/nightoftheconsumers",
+      "developer": "germfood",
+      "developer_url": "https://germfood.itch.io",
+      "price_text": "$5",
+      "genres": [],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 24,
+      "title": "KILLCACHE",
+      "url": "https://verybadscavr.itch.io/killcache",
+      "developer": "verybadscavr",
+      "developer_url": "https://verybadscavr.itch.io",
+      "price_text": "$10",
+      "genres": [
+        "Shooter"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 25,
+      "title": "ANATOMY",
+      "url": "https://kittyhorrorshow.itch.io/anatomy",
+      "developer": "Kitty Horrorshow",
+      "developer_url": "https://kittyhorrorshow.itch.io",
+      "price_text": "$2.99",
+      "genres": [
+        "Adventure"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 26,
+      "title": "ROAM0120.exe",
+      "url": "https://nso9019.itch.io/roam",
+      "developer": "NSO9019",
+      "developer_url": "https://nso9019.itch.io",
+      "price_text": null,
+      "genres": [],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 27,
+      "title": "Usuimo",
+      "url": "https://nlch.itch.io/usuimo",
+      "developer": "NLCH",
+      "developer_url": "https://nlch.itch.io",
+      "price_text": "$15",
+      "genres": [
+        "Simulation"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 28,
+      "title": "[DLC] Bloody Painter Dating Sim - Valentine",
+      "url": "https://delucat.itch.io/bloody-painter-dating-sim-dlc-valentines-day",
+      "developer": "DeluCat Productions",
+      "developer_url": "https://delucat.itch.io",
+      "price_text": "$1",
+      "genres": [
+        "Visual Novel"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 29,
+      "title": "A Date with Death - Beyond the Bet DLC",
+      "url": "https://twoandahalfstudios.itch.io/beyond-the-bet-dlc",
+      "developer": "Two and a Half Studios",
+      "developer_url": "https://twoandahalfstudios.itch.io",
+      "price_text": "$9.99",
+      "genres": [
+        "Visual Novel"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 30,
+      "title": "Last Call",
+      "url": "https://khoyl-games.itch.io/last-call",
+      "developer": "Khoylgames",
+      "developer_url": "https://khoyl-games.itch.io",
+      "price_text": "$2.49",
+      "genres": [
+        "Adventure"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 31,
+      "title": "NicoOS",
+      "url": "https://nicodalegend.itch.io/nicoos",
+      "developer": "NicoDaLegend",
+      "developer_url": "https://nicodalegend.itch.io",
+      "price_text": "Â£7.99",
+      "genres": [
+        "Interactive Fiction"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 32,
+      "title": "Mega Man X Innocent Impulse",
+      "url": "https://solrensun.itch.io/mmxii",
+      "developer": "Solren",
+      "developer_url": "https://solrensun.itch.io",
+      "price_text": null,
+      "genres": [
+        "Action"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 33,
+      "title": "Friday Night Funkin'",
+      "url": "https://ninja-muffin24.itch.io/funkin",
+      "developer": "ninjamuffin99",
+      "developer_url": "https://ninja-muffin24.itch.io",
+      "price_text": null,
+      "genres": [
+        "Rhythm"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 34,
+      "title": "Degeneracy Simulator",
+      "url": "https://wyzk.itch.io/degeneracy-simulator",
+      "developer": "wyzk",
+      "developer_url": "https://wyzk.itch.io",
+      "price_text": "$6.99",
+      "genres": [
+        "Simulation"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 35,
+      "title": "Save The Shapes Chapter 2: Diamond's Revenge",
+      "url": "https://nukepop.itch.io/save-the-shapes-chapter-2-diamonds-revenge",
+      "developer": "Nukepop",
+      "developer_url": "https://nukepop.itch.io",
+      "price_text": "$4.99",
+      "genres": [
+        "Action"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 36,
+      "title": "Dreadline for Intellivision (digital version)",
+      "url": "https://akegata-inty.itch.io/dreadline",
+      "developer": "Akegata",
+      "developer_url": "https://akegata-inty.itch.io",
+      "price_text": "$16.99",
+      "genres": [
+        "Action"
+      ],
+      "source_page": "https://itch.io/games/top-sellers"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 37,
+      "title": "Thank You Bus Driver",
+      "url": "https://doublefine.itch.io/thank-you-bus-driver",
+      "developer": "Double Fine Productions",
+      "developer_url": "https://doublefine.itch.io",
+      "price_text": "$4.99",
+      "genres": [
+        "Action"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 38,
+      "title": "18xx n' Chill",
+      "url": "https://fmestevez.itch.io/18xx-n-chill",
+      "developer": "The Boardgames Family",
+      "developer_url": "https://fmestevez.itch.io",
+      "price_text": "$5",
+      "genres": [
+        "Strategy"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 39,
+      "title": "Power Drill Massacre (Early Access)",
+      "url": "https://puppetcombo.itch.io/pdm",
+      "developer": "Puppet Combo",
+      "developer_url": "https://puppetcombo.itch.io",
+      "price_text": "$2.95",
+      "genres": [
+        "Adventure"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 40,
+      "title": "DUNGEON HORDE",
+      "url": "https://neon-namen.itch.io/dungeon-horde",
+      "developer": "Neon Namen",
+      "developer_url": "https://neon-namen.itch.io",
+      "price_text": null,
+      "genres": [
+        "Action"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 41,
+      "title": "14 Days With You [DEMO]",
+      "url": "https://cutiesai.itch.io/14dayswithyou",
+      "developer": "cutiesai",
+      "developer_url": "https://cutiesai.itch.io",
+      "price_text": null,
+      "genres": [
+        "Visual Novel"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 42,
+      "title": "WolfQuest",
+      "url": "https://eduweb.itch.io/wolfquest",
+      "developer": "eduweb",
+      "developer_url": "https://eduweb.itch.io",
+      "price_text": "$30",
+      "genres": [
+        "Simulation"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 43,
+      "title": "Kinebox",
+      "url": "https://kinemat-studio.itch.io/kinebox",
+      "developer": "Kinemat",
+      "developer_url": "https://kinemat-studio.itch.io",
+      "price_text": "$2",
+      "genres": [
+        "Shooter"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 44,
+      "title": "Road Of Fear",
+      "url": "https://zestosyt.itch.io/roadoffear",
+      "developer": "ZestosYt",
+      "developer_url": "https://zestosyt.itch.io",
+      "price_text": "$2.99",
+      "genres": [
+        "Adventure"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 45,
+      "title": "Can't Buy Me Love! (Beatles VN)",
+      "url": "https://brummelliana.itch.io/cbml",
+      "developer": "Brummelliana",
+      "developer_url": "https://brummelliana.itch.io",
+      "price_text": "$2",
+      "genres": [
+        "Visual Novel"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 46,
+      "title": "Basilisk - 2000",
+      "url": "https://akuma-kira.itch.io/basilisk-2000",
+      "developer": "KIRA",
+      "developer_url": "https://akuma-kira.itch.io",
+      "price_text": "$2",
+      "genres": [
+        "Role Playing"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 47,
+      "title": "HillSide Arcade",
+      "url": "https://zestosyt.itch.io/hillside-arcade",
+      "developer": "ZestosYt",
+      "developer_url": "https://zestosyt.itch.io",
+      "price_text": "$1.99",
+      "genres": [
+        "Simulation"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 48,
+      "title": "Pantygeist",
+      "url": "https://generalhumiliationgames.itch.io/pantygeist",
+      "developer": "GeneralHumiliationGames",
+      "developer_url": "https://generalhumiliationgames.itch.io",
+      "price_text": "$2.99",
+      "genres": [
+        "Puzzle"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 49,
+      "title": "A Date with Death",
+      "url": "https://twoandahalfstudios.itch.io/a-date-with-death",
+      "developer": "Two and a Half Studios",
+      "developer_url": "https://twoandahalfstudios.itch.io",
+      "price_text": null,
+      "genres": [
+        "Visual Novel"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 50,
+      "title": "Solo RPG Field Guide",
+      "url": "https://thegrouchcouch.itch.io/solo-rpg-field-guide",
+      "developer": "TheGrouchCouch",
+      "developer_url": "https://thegrouchcouch.itch.io",
+      "price_text": "$10",
+      "genres": [],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 51,
+      "title": "Kalayaan Road",
+      "url": "https://lawdgames.itch.io/kalayaan-road",
+      "developer": "Lawd",
+      "developer_url": "https://lawdgames.itch.io",
+      "price_text": "$1.99",
+      "genres": [],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 52,
+      "title": "ERROR143",
+      "url": "https://jennyvipham.itch.io/error143",
+      "developer": "Jenny Vi Pham",
+      "developer_url": "https://jennyvipham.itch.io",
+      "price_text": null,
+      "genres": [
+        "Visual Novel"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 53,
+      "title": "Project: Depot Shift",
+      "url": "https://neprojects.itch.io/project-depot-shift",
+      "developer": "NeverEnding Projects",
+      "developer_url": "https://neprojects.itch.io",
+      "price_text": "$1",
+      "genres": [],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 54,
+      "title": "DAWN OF THE DEAD 1978",
+      "url": "https://stefano-cagnani-3.itch.io/dawn-of-the-dead",
+      "developer": "Stefano Cagnani V3",
+      "developer_url": "https://stefano-cagnani-3.itch.io",
+      "price_text": "1â¬",
+      "genres": [
+        "Survival"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 55,
+      "title": "SAI (Special Artificial Investigation)",
+      "url": "https://zisquier.itch.io/special-artificial-investigation",
+      "developer": "Zisquier",
+      "developer_url": "https://zisquier.itch.io",
+      "price_text": "2â¬",
+      "genres": [
+        "Racing"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 56,
+      "title": "Roguecraft GB (Game Boy Color)",
+      "url": "https://thalamusdigital.itch.io/roguecraft-gb-game-boy-color",
+      "developer": "Thalamus Digital Publishing Ltd.",
+      "developer_url": "https://thalamusdigital.itch.io",
+      "price_text": "$9.99",
+      "genres": [
+        "Role Playing"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 57,
+      "title": "Hyper Runner",
+      "url": "https://rasterwizards.itch.io/hyper-runner",
+      "developer": "Raster Wizards",
+      "developer_url": "https://rasterwizards.itch.io",
+      "price_text": "$9.99",
+      "genres": [
+        "Racing"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 58,
+      "title": "Sky On Fire : 1940",
+      "url": "https://isni.itch.io/sky-on-fire-1940",
+      "developer": "ISNI",
+      "developer_url": "https://isni.itch.io",
+      "price_text": "$10",
+      "genres": [
+        "Simulation"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 59,
+      "title": "Your Happy Place",
+      "url": "https://dark-knife15.itch.io/your-happy-place",
+      "developer": "Dark_Knife15",
+      "developer_url": "https://dark-knife15.itch.io",
+      "price_text": null,
+      "genres": [
+        "Adventure"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 60,
+      "title": "Criminally Yours",
+      "url": "https://meant-to-bee-studios.itch.io/criminally-yours",
+      "developer": "Meant to Bee Studios",
+      "developer_url": "https://meant-to-bee-studios.itch.io",
+      "price_text": null,
+      "genres": [
+        "Visual Novel"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 61,
+      "title": "Among Us",
+      "url": "https://innersloth.itch.io/among-us",
+      "developer": "Innersloth",
+      "developer_url": "https://innersloth.itch.io",
+      "price_text": "$5",
+      "genres": [],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 62,
+      "title": "Gundam Survivors",
+      "url": "https://adamblue83.itch.io/gundam-survivors",
+      "developer": "Adam Blue",
+      "developer_url": "https://adamblue83.itch.io",
+      "price_text": null,
+      "genres": [
+        "Action"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 63,
+      "title": "Babysitter Bloodbath",
+      "url": "https://puppetcombo.itch.io/babysitter-bloodbath",
+      "developer": "Puppet Combo",
+      "developer_url": "https://puppetcombo.itch.io",
+      "price_text": "$2.95",
+      "genres": [
+        "Adventure"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 64,
+      "title": "Don't eat the cashier!",
+      "url": "https://detcc.itch.io/dont-eat-the-cashier",
+      "developer": "DETCc",
+      "developer_url": "https://detcc.itch.io",
+      "price_text": null,
+      "genres": [
+        "Visual Novel"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 65,
+      "title": "All Night Breakfast at the Midnight Owl",
+      "url": "https://criticalkit.itch.io/all-night-breakfast-at-the-midnight-owl",
+      "developer": "Critical Kit",
+      "developer_url": "https://criticalkit.itch.io",
+      "price_text": "Â£7.50",
+      "genres": [],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 66,
+      "title": "Sinner Maker (demo)",
+      "url": "https://sm-pantokrator.itch.io/sinner-maker",
+      "developer": "Pantokrator",
+      "developer_url": "https://sm-pantokrator.itch.io",
+      "price_text": null,
+      "genres": [],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 67,
+      "title": "JOAN OF ARC - DEUS CONTRA MACHINAM (C64)",
+      "url": "https://psytronik.itch.io/joa",
+      "developer": "Psytronik Software",
+      "developer_url": "https://psytronik.itch.io",
+      "price_text": "$4.99",
+      "genres": [
+        "Action"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 68,
+      "title": "Family Secrets 1 : Empty Plate",
+      "url": "https://badcat-games.itch.io/family-secrets-1-empty-plate",
+      "developer": "BADCAT GAMES",
+      "developer_url": "https://badcat-games.itch.io",
+      "price_text": "$2",
+      "genres": [
+        "Adventure"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 69,
+      "title": "My FiancÃ© is a Fiend [DEMO]",
+      "url": "https://akilargie.itch.io/my-fiance-is-a-fiend",
+      "developer": "akilargie",
+      "developer_url": "https://akilargie.itch.io",
+      "price_text": null,
+      "genres": [
+        "Visual Novel"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 70,
+      "title": "Addams Family Amiga: The Backgrounds Edition",
+      "url": "https://djmike.itch.io/addams-family-amiga-backgrounds-edition",
+      "developer": "DJ Mike",
+      "developer_url": "https://djmike.itch.io",
+      "price_text": null,
+      "genres": [
+        "Platformer"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 71,
+      "title": "Goodboy Galaxy (for GBA)",
+      "url": "https://goodboygalaxy.itch.io/goodboy-galaxy-gba",
+      "developer": "Goodboy Galaxy",
+      "developer_url": "https://goodboygalaxy.itch.io",
+      "price_text": "$20",
+      "genres": [
+        "Platformer"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 72,
+      "title": "PIG IRON",
+      "url": "https://posmnaut.itch.io/pig-iron",
+      "developer": "posmnaut",
+      "developer_url": "https://posmnaut.itch.io",
+      "price_text": null,
+      "genres": [
+        "Shooter"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=2"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 73,
+      "title": "Euphorica",
+      "url": "https://below-average-games.itch.io/euphorica",
+      "developer": "Below Average Games",
+      "developer_url": "https://below-average-games.itch.io",
+      "price_text": "$5",
+      "genres": [
+        "Simulation"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 74,
+      "title": "Halloween Revenge",
+      "url": "https://616games.itch.io/halloween-revenge",
+      "developer": "616 GAMES",
+      "developer_url": "https://616games.itch.io",
+      "price_text": "$1",
+      "genres": [
+        "Adventure"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 75,
+      "title": "Baldi's Basics Plus",
+      "url": "https://basically-games.itch.io/baldis-basics-plus",
+      "developer": "Basically Games",
+      "developer_url": "https://basically-games.itch.io",
+      "price_text": "$9.99",
+      "genres": [],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 76,
+      "title": "Doki Doki Literature Club!",
+      "url": "https://teamsalvato.itch.io/ddlc",
+      "developer": "Team Salvato",
+      "developer_url": "https://teamsalvato.itch.io",
+      "price_text": null,
+      "genres": [
+        "Visual Novel"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 77,
+      "title": "Obsidian Sky - Shoot-em up for C64",
+      "url": "https://snow-g.itch.io/obsidian-sky",
+      "developer": "Snow-G",
+      "developer_url": "https://snow-g.itch.io",
+      "price_text": "4.99â¬",
+      "genres": [
+        "Shooter"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 78,
+      "title": "FPV Freerider",
+      "url": "https://fpv-freerider.itch.io/fpv-freerider",
+      "developer": "FPV Freerider",
+      "developer_url": "https://fpv-freerider.itch.io",
+      "price_text": "$5.99",
+      "genres": [
+        "Simulation"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 79,
+      "title": "MANDATO",
+      "url": "https://solitarystudios.itch.io/mandato",
+      "developer": "SolitaryStudios",
+      "developer_url": "https://solitarystudios.itch.io",
+      "price_text": "$2.99",
+      "genres": [
+        "Simulation"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 80,
+      "title": "Necrosis C64/128",
+      "url": "https://mjnurney.itch.io/necrosisfull-c64",
+      "developer": "Mjnurney",
+      "developer_url": "https://mjnurney.itch.io",
+      "price_text": "Â£1",
+      "genres": [
+        "Platformer"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 81,
+      "title": "PokÃ©mon TD: Reborn",
+      "url": "https://ynvrr.itch.io/pokemon-td-reborn",
+      "developer": "yNvRR",
+      "developer_url": "https://ynvrr.itch.io",
+      "price_text": null,
+      "genres": [
+        "Strategy"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 82,
+      "title": "That's not my Neighbor",
+      "url": "https://nachogames.itch.io/thats-not-my-neighbor",
+      "developer": "Nacho Sama",
+      "developer_url": "https://nachogames.itch.io",
+      "price_text": null,
+      "genres": [
+        "Simulation"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 83,
+      "title": "Razing Core",
+      "url": "https://badcomputer0.itch.io/razing-core",
+      "developer": "Bad Computer",
+      "developer_url": "https://badcomputer0.itch.io",
+      "price_text": "$7.99",
+      "genres": [
+        "Shooter"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 84,
+      "title": "The World Is Doomed Unless I Can Raise My Power Level to 1,000,000 and Confront the Demon Lord",
+      "url": "https://reav.itch.io/demon-lord",
+      "developer": "reav",
+      "developer_url": "https://reav.itch.io",
+      "price_text": "$2.99",
+      "genres": [
+        "Adventure"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 85,
+      "title": "He Followed Me",
+      "url": "https://zestosyt.itch.io/he-followed-me-home",
+      "developer": "ZestosYt",
+      "developer_url": "https://zestosyt.itch.io",
+      "price_text": "$3.99",
+      "genres": [
+        "Adventure"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 86,
+      "title": "Rescue the Hostages: Twenty Deadly Questions",
+      "url": "https://rescuethehostages.itch.io/rescue-the-hostages-2",
+      "developer": "Rescue the Hostages",
+      "developer_url": "https://rescuethehostages.itch.io",
+      "price_text": "$5",
+      "genres": [
+        "Strategy"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 87,
+      "title": "Obsession",
+      "url": "https://selyk-alien.itch.io/obsession",
+      "developer": "Selyk",
+      "developer_url": "https://selyk-alien.itch.io",
+      "price_text": null,
+      "genres": [
+        "Visual Novel"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 88,
+      "title": "OUT OF THE DARK",
+      "url": "https://zestosyt.itch.io/out-of-the-darkk",
+      "developer": "ZestosYt",
+      "developer_url": "https://zestosyt.itch.io",
+      "price_text": "$1.99",
+      "genres": [
+        "Simulation"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 89,
+      "title": "Gun.Smoke : A1200 Edition (AGA Amiga)",
+      "url": "https://modernvintagegamer.itch.io/gunsmoke-aga",
+      "developer": "Dimitris Giannakis - MVG",
+      "developer_url": "https://modernvintagegamer.itch.io",
+      "price_text": null,
+      "genres": [
+        "Action"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 90,
+      "title": "NIGHT WATCH AT PRECINCT 13",
+      "url": "https://zestosyt.itch.io/night-watch-at-precinct-13",
+      "developer": "ZestosYt",
+      "developer_url": "https://zestosyt.itch.io",
+      "price_text": "$1.99",
+      "genres": [
+        "Simulation"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 91,
+      "title": "TurretGirls",
+      "url": "https://dangen-entertainment.itch.io/turretgirls",
+      "developer": "DANGEN Entertainment",
+      "developer_url": "https://dangen-entertainment.itch.io",
+      "price_text": "$9.99",
+      "genres": [
+        "Action"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 92,
+      "title": "Sally Face",
+      "url": "https://portablemoose.itch.io/sallyface",
+      "developer": "Portable Moose",
+      "developer_url": "https://portablemoose.itch.io",
+      "price_text": "$2.99",
+      "genres": [
+        "Adventure"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 93,
+      "title": "Dig Dug for Amiga",
+      "url": "https://tjlazer.itch.io/dig-dug-for-amiga",
+      "developer": "TjLaZer",
+      "developer_url": "https://tjlazer.itch.io",
+      "price_text": null,
+      "genres": [
+        "Action"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 94,
+      "title": "The Panda Party",
+      "url": "https://bizymouse.itch.io/panda-party",
+      "developer": "bizymouse",
+      "developer_url": "https://bizymouse.itch.io",
+      "price_text": "$16.95",
+      "genres": [],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 95,
+      "title": "Captive",
+      "url": "https://nightmareweaverz.itch.io/captive",
+      "developer": "NightmareWeaverz",
+      "developer_url": "https://nightmareweaverz.itch.io",
+      "price_text": null,
+      "genres": [
+        "Visual Novel"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 96,
+      "title": "The Mayor of Sanctuary",
+      "url": "https://naramakesgames.itch.io/the-mayor-of-sanctuary",
+      "developer": "NaraMakesGames",
+      "developer_url": "https://naramakesgames.itch.io",
+      "price_text": "$3.99",
+      "genres": [
+        "Adventure"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 97,
+      "title": "Battle for Wesnoth",
+      "url": "https://wesnoth.itch.io/battle-for-wesnoth",
+      "developer": "Wesnoth",
+      "developer_url": "https://wesnoth.itch.io",
+      "price_text": null,
+      "genres": [
+        "Strategy"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 98,
+      "title": "Freestyle - Tales Of Itch Amiga OUT NOW!",
+      "url": "https://kickyfunkfresh.itch.io/freestyletalesofitch",
+      "developer": "Mute.Ink",
+      "developer_url": "https://kickyfunkfresh.itch.io",
+      "price_text": "Free",
+      "genres": [
+        "Platformer"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 99,
+      "title": "TMNT: Arcade Game - Megadrive Port",
+      "url": "https://valenzuelagustavo.itch.io/tmnt-arcade-game-megadrive-port",
+      "developer": "aguara.fox",
+      "developer_url": "https://valenzuelagustavo.itch.io",
+      "price_text": null,
+      "genres": [
+        "Action"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    },
+    {
+      "scraped_at": "2026-10-17T08:16:23+00:00",
+      "rank": 100,
+      "title": "Online Boxing 3D V2",
+      "url": "https://mlp2305.itch.io/online-boxing-3d-v2",
+      "developer": "mlp2305",
+      "developer_url": "https://mlp2305.itch.io",
+      "price_text": null,
+      "genres": [
+        "Fighting"
+      ],
+      "source_page": "https://itch.io/games/top-sellers?page=3"
+    }
+  ]
+}

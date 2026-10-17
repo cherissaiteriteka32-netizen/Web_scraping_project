@@ -14,6 +14,7 @@ from __future__ import annotations
 import json
 import logging
 import re
+import subprocess
 import time
 from datetime import datetime, timezone
 from pathlib import Path
@@ -75,6 +76,42 @@ def configure_logging() -> None:
             logging.FileHandler(LOG_DIR / "collection.log", encoding="utf-8"),
         ],
     )
+
+
+def publish_snapshot_to_github(paths: list[Path], stamp: str) -> None:
+    """Commit only this snapshot and push it to the current branch on origin."""
+    branch_result = subprocess.run(
+        ["git", "branch", "--show-current"],
+        check=True,
+        capture_output=True,
+        text=True,
+    )
+    branch = branch_result.stdout.strip()
+    if not branch:
+        raise RuntimeError("Cannot publish the snapshot from a detached HEAD.")
+
+    git_paths = [path.as_posix() for path in paths]
+    subprocess.run(["git", "add", "--", *git_paths], check=True)
+    changes = subprocess.run(
+        ["git", "diff", "--cached", "--quiet", "--", *git_paths],
+        check=False,
+    )
+    if changes.returncode == 1:
+        subprocess.run(
+            [
+                "git", "commit", "--only", "-m",
+                f"Add itch.io snapshot {stamp}", "--", *git_paths,
+            ],
+            check=True,
+        )
+    elif changes.returncode != 0:
+        raise RuntimeError("Could not determine whether the snapshot needs committing.")
+
+    subprocess.run(
+        ["git", "push", "origin", f"HEAD:refs/heads/{branch}"],
+        check=True,
+    )
+    logging.info("Published snapshot to origin/%s.", branch)
 
 
 def check_robots(session: requests.Session, target_url: str = BASE_URL) -> bool:
@@ -293,6 +330,7 @@ def scrape_top_sellers(
     logging.info("Saved raw JSON: %s", json_path)
     logging.info("Saved raw CSV: %s", csv_path)
     logging.info("Collected %s unique listings.", len(records))
+    publish_snapshot_to_github([json_path, csv_path], stamp)
     return records
 
 

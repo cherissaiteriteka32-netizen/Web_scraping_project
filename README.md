@@ -60,7 +60,7 @@ The marking brief schedules seven collection runs on assignment Days 4–10. Con
 ```powershell
 python src/run_daily.py --target 500 --delay 3 --max-pages 30
 ```
-Run once per scheduled day, targeting 500 ranked listings. Save and preserve each dated raw JSON/CSV file. If the website blocks or rate-limits the scraper, stop and document the event rather than retrying aggressively. The script creates a dated raw file; run each day in the same repository so the SQLite database accumulates observations. The cleaned CSV is replaced each run; the raw daily files are the historical source of truth.
+Run once per scheduled day, targeting 500 ranked listings. After saving the dated raw JSON/CSV files, the scraper commits only those two files and pushes the commit to the current branch on the `origin` GitHub remote. Git credentials and permission to push to that branch must be configured. If publishing fails, the raw files remain local and the command reports an error; push them before considering that day's GitHub backup complete. If the website blocks or rate-limits the scraper, stop and document the event rather than retrying aggressively. Run each day in the same repository so the SQLite database accumulates observations. The cleaned CSV is replaced each run; the raw daily files are the historical source of truth.
 
 ## 5. Analyse
 Open `itchio_top_sellers_eight_charts.ipynb`, select the project kernel, and run cells from the top after collecting data. The notebook combines CSV snapshots in `data/raw/` when available and uses the cleaned CSV only as a fallback. Some requested analyses need fields the current scraper may not provide, such as original/list price or platform support; report those as data limitations instead of inferring them.
