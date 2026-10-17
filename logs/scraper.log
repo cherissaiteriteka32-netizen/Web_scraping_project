@@ -1,0 +1,203 @@
+2026-10-15 20:40:31,258 | INFO | robots.txt allows the top-sellers listing URL.
+2026-10-15 20:40:31,274 | INFO | Fetching listing page 1: https://itch.io/games/top-sellers
+2026-10-15 20:42:44,365 | INFO | robots.txt allows the top-sellers listing URL.
+2026-10-15 20:42:44,365 | INFO | Fetching listing page 1: https://itch.io/games/top-sellers
+2026-10-15 20:42:48,902 | INFO | Collected 36/500 games after page 1.
+2026-10-15 20:42:48,916 | INFO | Fetching listing page 2: https://itch.io/games/top-sellers?page=2
+2026-10-15 20:42:54,039 | INFO | Collected 72/500 games after page 2.
+2026-10-15 20:42:54,056 | INFO | Fetching listing page 3: https://itch.io/games/top-sellers?page=3
+2026-10-15 20:42:57,782 | INFO | Collected 108/500 games after page 3.
+2026-10-15 20:42:57,835 | INFO | Fetching listing page 4: https://itch.io/games/top-sellers?page=4
+2026-10-15 20:43:02,208 | INFO | Collected 144/500 games after page 4.
+2026-10-15 20:43:02,224 | INFO | Fetching listing page 5: https://itch.io/games/top-sellers?page=5
+2026-10-15 20:43:05,691 | INFO | Collected 180/500 games after page 5.
+2026-10-15 20:43:05,691 | INFO | Fetching listing page 6: https://itch.io/games/top-sellers?page=6
+2026-10-15 20:43:08,990 | INFO | Collected 216/500 games after page 6.
+2026-10-15 20:43:09,000 | INFO | Fetching listing page 7: https://itch.io/games/top-sellers?page=7
+2026-10-15 20:43:13,539 | INFO | Collected 252/500 games after page 7.
+2026-10-15 20:43:13,555 | INFO | Fetching listing page 8: https://itch.io/games/top-sellers?page=8
+2026-10-15 20:43:18,039 | INFO | Collected 288/500 games after page 8.
+2026-10-15 20:43:18,055 | INFO | Fetching listing page 9: https://itch.io/games/top-sellers?page=9
+2026-10-15 20:43:23,517 | INFO | Collected 324/500 games after page 9.
+2026-10-15 20:43:23,529 | INFO | Fetching listing page 10: https://itch.io/games/top-sellers?page=10
+2026-10-15 20:43:29,162 | INFO | Collected 360/500 games after page 10.
+2026-10-15 20:43:29,178 | INFO | Fetching listing page 11: https://itch.io/games/top-sellers?page=11
+2026-10-15 20:43:34,429 | INFO | Collected 396/500 games after page 11.
+2026-10-15 20:43:34,455 | INFO | Fetching listing page 12: https://itch.io/games/top-sellers?page=12
+2026-10-15 20:43:38,920 | WARNING | Request attempt 1/3 failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-15 20:43:44,362 | INFO | Collected 432/500 games after page 12.
+2026-10-15 20:43:44,380 | INFO | Fetching listing page 13: https://itch.io/games/top-sellers?page=13
+2026-10-15 20:43:47,756 | INFO | Collected 468/500 games after page 13.
+2026-10-15 20:43:47,762 | INFO | Fetching listing page 14: https://itch.io/games/top-sellers?page=14
+2026-10-15 20:43:51,774 | INFO | Collected 500/500 games after page 14.
+2026-10-15 20:43:51,849 | INFO | Saved raw evidence: C:\Users\danie\Desktop\group8_web_scraping_project\data\raw\itchio_top_sellers_2026-10-15.csv and C:\Users\danie\Desktop\group8_web_scraping_project\data\raw\itchio_top_sellers_2026-10-15.json
+2026-10-15 20:43:51,943 | INFO | Saved cleaned CSV: C:\Users\danie\Desktop\group8_web_scraping_project\data\cleaned\itchio_top_sellers_cleaned_2026-10-15.csv
+2026-10-15 20:43:51,943 | INFO | Updated SQLite database: C:\Users\danie\Desktop\group8_web_scraping_project\data\group8_itchio.sqlite
+2026-10-15 20:43:51,951 | INFO | Finished: 500 records collected; 15 HTTP requests used.
+2026-10-15 21:06:33,236 | INFO | robots.txt allows the top-sellers listing URL.
+2026-10-15 21:06:33,236 | INFO | Fetching listing page 1: https://itch.io/games/top-sellers
+2026-10-15 21:06:36,831 | INFO | Collected 36/500 games after page 1.
+2026-10-15 21:06:36,847 | INFO | Fetching listing page 2: https://itch.io/games/top-sellers?page=2
+2026-10-15 21:06:39,928 | WARNING | Request attempt 1/3 failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2026-10-15 21:06:42,042 | WARNING | Request attempt 2/3 failed: HTTPSConnectionPool(host='itch.io', port=443): Max retries exceeded with url: /games/top-sellers?page=2 (Caused by NameResolutionError("HTTPSConnection(host='itch.io', port=443): Failed to resolve 'itch.io' ([Errno 11001] getaddrinfo failed)"))
+2026-10-15 21:06:49,107 | INFO | Collected 72/500 games after page 2.
+2026-10-15 21:06:49,120 | INFO | Fetching listing page 3: https://itch.io/games/top-sellers?page=3
+2026-10-15 21:06:53,370 | INFO | Collected 108/500 games after page 3.
+2026-10-15 21:06:53,389 | INFO | Fetching listing page 4: https://itch.io/games/top-sellers?page=4
+2026-10-15 21:06:56,168 | INFO | Collected 144/500 games after page 4.
+2026-10-15 21:06:56,168 | INFO | Fetching listing page 5: https://itch.io/games/top-sellers?page=5
+2026-10-15 21:07:00,992 | INFO | Collected 180/500 games after page 5.
+2026-10-15 21:07:01,010 | INFO | Fetching listing page 6: https://itch.io/games/top-sellers?page=6
+2026-10-15 21:07:06,298 | INFO | Collected 216/500 games after page 6.
+2026-10-15 21:07:06,320 | INFO | Fetching listing page 7: https://itch.io/games/top-sellers?page=7
+2026-10-15 21:07:09,726 | INFO | Collected 252/500 games after page 7.
+2026-10-15 21:07:09,750 | INFO | Fetching listing page 8: https://itch.io/games/top-sellers?page=8
+2026-10-15 21:07:12,869 | INFO | Collected 288/500 games after page 8.
+2026-10-15 21:07:12,869 | INFO | Fetching listing page 9: https://itch.io/games/top-sellers?page=9
+2026-10-15 21:07:16,705 | INFO | Collected 324/500 games after page 9.
+2026-10-15 21:07:16,721 | INFO | Fetching listing page 10: https://itch.io/games/top-sellers?page=10
+2026-10-15 21:07:19,825 | INFO | Collected 360/500 games after page 10.
+2026-10-15 21:07:19,850 | INFO | Fetching listing page 11: https://itch.io/games/top-sellers?page=11
+2026-10-15 21:07:24,280 | INFO | Collected 396/500 games after page 11.
+2026-10-15 21:07:24,299 | INFO | Fetching listing page 12: https://itch.io/games/top-sellers?page=12
+2026-10-15 21:07:28,841 | INFO | Collected 432/500 games after page 12.
+2026-10-15 21:07:28,863 | INFO | Fetching listing page 13: https://itch.io/games/top-sellers?page=13
+2026-10-15 21:07:34,027 | INFO | Collected 468/500 games after page 13.
+2026-10-15 21:07:34,041 | INFO | Fetching listing page 14: https://itch.io/games/top-sellers?page=14
+2026-10-15 21:07:37,896 | INFO | Collected 500/500 games after page 14.
+2026-10-15 21:07:37,952 | INFO | Saved raw evidence: C:\Users\danie\Desktop\group8_web_scraping_project\data\raw\itchio_top_sellers_2026-10-15.csv and C:\Users\danie\Desktop\group8_web_scraping_project\data\raw\itchio_top_sellers_2026-10-15.json
+2026-10-15 21:07:38,061 | INFO | Saved cleaned CSV: C:\Users\danie\Desktop\group8_web_scraping_project\data\cleaned\itchio_top_sellers_cleaned_2026-10-15.csv
+2026-10-15 21:07:38,067 | INFO | Updated SQLite database: C:\Users\danie\Desktop\group8_web_scraping_project\data\group8_itchio.sqlite
+2026-10-15 21:07:38,067 | INFO | Finished: 500 records collected; 15 HTTP requests used.
+2026-10-15 22:44:43,821 | INFO | robots.txt allows the top-sellers listing URL.
+2026-10-15 22:44:43,832 | INFO | Fetching listing page 1: https://itch.io/games/top-sellers
+2026-10-15 22:44:49,916 | INFO | Collected 36/500 games after page 1.
+2026-10-15 22:44:49,942 | INFO | Fetching listing page 2: https://itch.io/games/top-sellers?page=2
+2026-10-15 22:44:55,680 | INFO | Collected 72/500 games after page 2.
+2026-10-15 22:44:55,680 | INFO | Fetching listing page 3: https://itch.io/games/top-sellers?page=3
+2026-10-15 22:45:00,894 | INFO | Collected 108/500 games after page 3.
+2026-10-15 22:45:00,910 | INFO | Fetching listing page 4: https://itch.io/games/top-sellers?page=4
+2026-10-15 22:45:08,029 | INFO | Collected 144/500 games after page 4.
+2026-10-15 22:45:08,029 | INFO | Fetching listing page 5: https://itch.io/games/top-sellers?page=5
+2026-10-15 22:45:14,148 | INFO | Collected 180/500 games after page 5.
+2026-10-15 22:45:14,148 | INFO | Fetching listing page 6: https://itch.io/games/top-sellers?page=6
+2026-10-15 22:45:20,734 | INFO | Collected 216/500 games after page 6.
+2026-10-15 22:45:20,756 | INFO | Fetching listing page 7: https://itch.io/games/top-sellers?page=7
+2026-10-15 22:45:26,638 | INFO | Collected 252/500 games after page 7.
+2026-10-15 22:45:26,650 | INFO | Fetching listing page 8: https://itch.io/games/top-sellers?page=8
+2026-10-15 22:45:32,099 | INFO | Collected 288/500 games after page 8.
+2026-10-15 22:45:32,115 | INFO | Fetching listing page 9: https://itch.io/games/top-sellers?page=9
+2026-10-15 22:45:39,217 | INFO | Collected 324/500 games after page 9.
+2026-10-15 22:45:39,232 | INFO | Fetching listing page 10: https://itch.io/games/top-sellers?page=10
+2026-10-15 22:45:44,319 | INFO | Collected 360/500 games after page 10.
+2026-10-15 22:45:44,319 | INFO | Fetching listing page 11: https://itch.io/games/top-sellers?page=11
+2026-10-15 22:45:48,758 | INFO | Collected 396/500 games after page 11.
+2026-10-15 22:45:48,774 | INFO | Fetching listing page 12: https://itch.io/games/top-sellers?page=12
+2026-10-15 22:45:52,972 | INFO | Collected 432/500 games after page 12.
+2026-10-15 22:45:52,990 | INFO | Fetching listing page 13: https://itch.io/games/top-sellers?page=13
+2026-10-15 22:45:58,251 | INFO | Collected 468/500 games after page 13.
+2026-10-15 22:45:58,251 | INFO | Fetching listing page 14: https://itch.io/games/top-sellers?page=14
+2026-10-15 22:46:03,049 | INFO | Collected 500/500 games after page 14.
+2026-10-15 22:46:03,095 | INFO | Saved raw evidence: C:\Users\danie\Desktop\group8_web_scraping_project\data\raw\itchio_top_sellers_2026-10-15.csv and C:\Users\danie\Desktop\group8_web_scraping_project\data\raw\itchio_top_sellers_2026-10-15.json
+2026-10-15 22:46:03,162 | INFO | Saved cleaned CSV: C:\Users\danie\Desktop\group8_web_scraping_project\data\cleaned\itchio_top_sellers_cleaned_2026-10-15.csv
+2026-10-15 22:46:03,173 | INFO | Updated SQLite database: C:\Users\danie\Desktop\group8_web_scraping_project\data\group8_itchio.sqlite
+2026-10-15 22:46:03,173 | INFO | Finished: 500 records collected; 15 HTTP requests used.
+2026-10-16 13:02:32,630 | INFO | robots.txt allows the top-sellers listing URL.
+2026-10-16 13:02:32,769 | INFO | Fetching listing page 1: https://itch.io/games/top-sellers
+2026-10-16 13:02:43,668 | INFO | Collected 36/500 games after page 1.
+2026-10-16 13:02:43,748 | INFO | Fetching listing page 2: https://itch.io/games/top-sellers?page=2
+2026-10-16 13:02:49,352 | INFO | Collected 71/500 games after page 2.
+2026-10-16 13:02:49,375 | INFO | Fetching listing page 3: https://itch.io/games/top-sellers?page=3
+2026-10-16 13:02:57,388 | INFO | Collected 107/500 games after page 3.
+2026-10-16 13:02:57,420 | INFO | Fetching listing page 4: https://itch.io/games/top-sellers?page=4
+2026-10-16 13:03:11,160 | INFO | Collected 143/500 games after page 4.
+2026-10-16 13:03:11,175 | INFO | Fetching listing page 5: https://itch.io/games/top-sellers?page=5
+2026-10-16 13:03:20,640 | INFO | Collected 179/500 games after page 5.
+2026-10-16 13:03:20,658 | INFO | Fetching listing page 6: https://itch.io/games/top-sellers?page=6
+2026-10-16 13:03:25,635 | INFO | Collected 215/500 games after page 6.
+2026-10-16 13:03:25,652 | INFO | Fetching listing page 7: https://itch.io/games/top-sellers?page=7
+2026-10-16 13:03:30,012 | INFO | Collected 251/500 games after page 7.
+2026-10-16 13:03:30,037 | INFO | Fetching listing page 8: https://itch.io/games/top-sellers?page=8
+2026-10-16 13:03:34,268 | INFO | Collected 287/500 games after page 8.
+2026-10-16 13:03:34,298 | INFO | Fetching listing page 9: https://itch.io/games/top-sellers?page=9
+2026-10-16 13:03:39,522 | INFO | Collected 323/500 games after page 9.
+2026-10-16 13:03:39,553 | INFO | Fetching listing page 10: https://itch.io/games/top-sellers?page=10
+2026-10-16 13:03:46,579 | INFO | Collected 359/500 games after page 10.
+2026-10-16 13:03:46,602 | INFO | Fetching listing page 11: https://itch.io/games/top-sellers?page=11
+2026-10-16 13:03:51,046 | INFO | Collected 395/500 games after page 11.
+2026-10-16 13:03:51,145 | INFO | Fetching listing page 12: https://itch.io/games/top-sellers?page=12
+2026-10-16 13:03:55,552 | INFO | Collected 431/500 games after page 12.
+2026-10-16 13:03:55,572 | INFO | Fetching listing page 13: https://itch.io/games/top-sellers?page=13
+2026-10-16 13:04:01,388 | INFO | Collected 467/500 games after page 13.
+2026-10-16 13:04:01,404 | INFO | Fetching listing page 14: https://itch.io/games/top-sellers?page=14
+2026-10-16 13:04:08,133 | INFO | Collected 500/500 games after page 14.
+2026-10-16 13:04:08,385 | INFO | Saved raw evidence: C:\Users\danie\Desktop\group8_web_scraping_project\data\raw\itchio_top_sellers_2026-10-16.csv and C:\Users\danie\Desktop\group8_web_scraping_project\data\raw\itchio_top_sellers_2026-10-16.json
+2026-10-16 13:04:08,666 | INFO | Saved cleaned CSV: C:\Users\danie\Desktop\group8_web_scraping_project\data\cleaned\itchio_top_sellers_cleaned_2026-10-16.csv
+2026-10-16 13:04:08,682 | INFO | Updated SQLite database: C:\Users\danie\Desktop\group8_web_scraping_project\data\group8_itchio.sqlite
+2026-10-16 13:04:08,682 | INFO | Finished: 500 records collected; 15 HTTP requests used.
+2026-10-17 10:13:15,716 | INFO | robots.txt allows the top-sellers listing URL.
+2026-10-17 10:13:15,717 | INFO | Fetching listing page 1: https://itch.io/games/top-sellers
+2026-10-17 10:13:21,293 | INFO | Collected 36/500 games after page 1.
+2026-10-17 10:13:21,308 | INFO | Fetching listing page 2: https://itch.io/games/top-sellers?page=2
+2026-10-17 10:13:24,851 | INFO | Collected 72/500 games after page 2.
+2026-10-17 10:13:24,877 | INFO | Fetching listing page 3: https://itch.io/games/top-sellers?page=3
+2026-10-17 10:13:28,981 | INFO | Collected 108/500 games after page 3.
+2026-10-17 10:13:28,997 | INFO | Fetching listing page 4: https://itch.io/games/top-sellers?page=4
+2026-10-17 10:13:31,891 | INFO | Collected 144/500 games after page 4.
+2026-10-17 10:13:31,911 | INFO | Fetching listing page 5: https://itch.io/games/top-sellers?page=5
+2026-10-17 10:13:34,746 | INFO | Collected 180/500 games after page 5.
+2026-10-17 10:13:35,040 | INFO | Fetching listing page 6: https://itch.io/games/top-sellers?page=6
+2026-10-17 10:13:39,027 | INFO | Collected 216/500 games after page 6.
+2026-10-17 10:13:39,027 | INFO | Fetching listing page 7: https://itch.io/games/top-sellers?page=7
+2026-10-17 10:13:43,513 | INFO | Collected 252/500 games after page 7.
+2026-10-17 10:13:43,526 | INFO | Fetching listing page 8: https://itch.io/games/top-sellers?page=8
+2026-10-17 10:13:48,930 | INFO | Collected 288/500 games after page 8.
+2026-10-17 10:13:48,944 | INFO | Fetching listing page 9: https://itch.io/games/top-sellers?page=9
+2026-10-17 10:13:54,272 | INFO | Collected 324/500 games after page 9.
+2026-10-17 10:13:54,292 | INFO | Fetching listing page 10: https://itch.io/games/top-sellers?page=10
+2026-10-17 10:13:56,717 | INFO | Collected 360/500 games after page 10.
+2026-10-17 10:13:56,731 | INFO | Fetching listing page 11: https://itch.io/games/top-sellers?page=11
+2026-10-17 10:14:00,292 | INFO | Collected 396/500 games after page 11.
+2026-10-17 10:14:00,308 | INFO | Fetching listing page 12: https://itch.io/games/top-sellers?page=12
+2026-10-17 10:14:05,940 | INFO | Collected 432/500 games after page 12.
+2026-10-17 10:14:05,955 | INFO | Fetching listing page 13: https://itch.io/games/top-sellers?page=13
+2026-10-17 10:14:08,934 | INFO | Collected 468/500 games after page 13.
+2026-10-17 10:14:08,947 | INFO | Fetching listing page 14: https://itch.io/games/top-sellers?page=14
+2026-10-17 10:14:11,431 | INFO | Collected 500/500 games after page 14.
+2026-10-17 10:14:11,473 | INFO | Saved raw evidence: C:\Users\danie\Desktop\group8_web_scraping_project\data\raw\itchio_top_sellers_2026-10-17.csv and C:\Users\danie\Desktop\group8_web_scraping_project\data\raw\itchio_top_sellers_2026-10-17.json
+2026-10-17 10:14:11,557 | INFO | Saved cleaned CSV: C:\Users\danie\Desktop\group8_web_scraping_project\data\cleaned\itchio_top_sellers_cleaned_2026-10-17.csv
+2026-10-17 10:14:11,560 | INFO | Updated SQLite database: C:\Users\danie\Desktop\group8_web_scraping_project\data\group8_itchio.sqlite
+2026-10-17 10:14:11,562 | INFO | Finished: 500 records collected; 15 HTTP requests used.
+2026-10-17 10:52:42,120 | INFO | robots.txt allows the top-sellers listing URL.
+2026-10-17 10:52:42,120 | INFO | Fetching listing page 1: https://itch.io/games/top-sellers
+2026-10-17 10:52:46,062 | INFO | Collected 36/500 games after page 1.
+2026-10-17 10:52:46,072 | INFO | Fetching listing page 2: https://itch.io/games/top-sellers?page=2
+2026-10-17 10:52:50,394 | INFO | Collected 72/500 games after page 2.
+2026-10-17 10:52:50,406 | INFO | Fetching listing page 3: https://itch.io/games/top-sellers?page=3
+2026-10-17 10:52:53,255 | INFO | Collected 108/500 games after page 3.
+2026-10-17 10:52:53,255 | INFO | Fetching listing page 4: https://itch.io/games/top-sellers?page=4
+2026-10-17 10:52:55,908 | INFO | Collected 144/500 games after page 4.
+2026-10-17 10:52:55,908 | INFO | Fetching listing page 5: https://itch.io/games/top-sellers?page=5
+2026-10-17 10:53:01,553 | INFO | Collected 180/500 games after page 5.
+2026-10-17 10:53:01,572 | INFO | Fetching listing page 6: https://itch.io/games/top-sellers?page=6
+2026-10-17 10:53:06,241 | INFO | Collected 216/500 games after page 6.
+2026-10-17 10:53:06,258 | INFO | Fetching listing page 7: https://itch.io/games/top-sellers?page=7
+2026-10-17 10:53:11,064 | INFO | Collected 252/500 games after page 7.
+2026-10-17 10:53:11,082 | INFO | Fetching listing page 8: https://itch.io/games/top-sellers?page=8
+2026-10-17 10:53:16,070 | INFO | Collected 288/500 games after page 8.
+2026-10-17 10:53:16,091 | INFO | Fetching listing page 9: https://itch.io/games/top-sellers?page=9
+2026-10-17 10:53:21,382 | INFO | Collected 324/500 games after page 9.
+2026-10-17 10:53:21,406 | INFO | Fetching listing page 10: https://itch.io/games/top-sellers?page=10
+2026-10-17 10:53:25,111 | INFO | Collected 360/500 games after page 10.
+2026-10-17 10:53:25,132 | INFO | Fetching listing page 11: https://itch.io/games/top-sellers?page=11
+2026-10-17 10:53:30,502 | INFO | Collected 396/500 games after page 11.
+2026-10-17 10:53:30,523 | INFO | Fetching listing page 12: https://itch.io/games/top-sellers?page=12
+2026-10-17 10:53:35,537 | INFO | Collected 432/500 games after page 12.
+2026-10-17 10:53:35,537 | INFO | Fetching listing page 13: https://itch.io/games/top-sellers?page=13
+2026-10-17 10:53:39,812 | INFO | Collected 468/500 games after page 13.
+2026-10-17 10:53:39,812 | INFO | Fetching listing page 14: https://itch.io/games/top-sellers?page=14
+2026-10-17 10:53:44,041 | INFO | Collected 500/500 games after page 14.
+2026-10-17 10:53:44,108 | INFO | Saved raw evidence: C:\Users\danie\Desktop\group8_web_scraping_project\data\raw\itchio_top_sellers_2026-10-17.csv and C:\Users\danie\Desktop\group8_web_scraping_project\data\raw\itchio_top_sellers_2026-10-17.json
+2026-10-17 10:53:44,206 | INFO | Saved cleaned CSV: C:\Users\danie\Desktop\group8_web_scraping_project\data\cleaned\itchio_top_sellers_cleaned_2026-10-17.csv
+2026-10-17 10:53:44,206 | INFO | Updated SQLite database: C:\Users\danie\Desktop\group8_web_scraping_project\data\group8_itchio.sqlite
+2026-10-17 10:53:44,206 | INFO | Finished: 500 records collected; 15 HTTP requests used.
