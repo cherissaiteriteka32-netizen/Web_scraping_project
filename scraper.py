@@ -21,7 +21,7 @@ from urllib.robotparser import RobotFileParser
 import requests
 from bs4 import BeautifulSoup
 
-# ----------------------------- Configuration -----------------------------
+# Configuration
 BASE_URL = "https://itch.io/games/top-sellers"
 ROBOTS_URL = "https://itch.io/robots.txt"
 USER_AGENT = "DSC2107-Group8-Course-Project (wmubs4@gmail.com)"
