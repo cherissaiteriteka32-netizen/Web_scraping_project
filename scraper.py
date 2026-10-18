@@ -36,7 +36,7 @@ CLEAN_DIR = ROOT / "data" / "cleaned"
 DB_PATH = ROOT / "data" / "group8_itchio.sqlite"
 LOG_PATH = ROOT / "logs" / "scraper.log"
 
-# ------------------------------ Logging -----------------------------------
+# Logging
 # Log progress and failures to both the terminal and a file for the report.
 LOG_PATH.parent.mkdir(parents=True, exist_ok=True)
 logging.basicConfig(
@@ -45,7 +45,7 @@ logging.basicConfig(
     handlers=[logging.StreamHandler(), logging.FileHandler(LOG_PATH, encoding="utf-8")],
 )
 
-# ---------------------------- HTTP session --------------------------------
+# HTTP session
 # A session reuses the connection. A clear User-Agent identifies the project.
 session = requests.Session()
 session.headers.update({"User-Agent": USER_AGENT, "Accept-Language": "en-US,en;q=0.9"})
