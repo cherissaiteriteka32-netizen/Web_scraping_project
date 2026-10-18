@@ -1,4 +1,4 @@
-"""DSC2107 Group 8: responsible itch.io Top Sellers scraper.
+^"""DSC2107 Group 8: responsible itch.io Top Sellers scraper.
 
 The script collects public listing-card fields only. It does not log in, visit
 search/checkout/download routes, bypass blocks, or use proxies to evade limits.
@@ -37,6 +37,7 @@ DB_PATH = ROOT / "data" / "group8_itchio.sqlite"
 LOG_PATH = ROOT / "logs" / "scraper.log"
 
 # Logging
+
 # Log progress and failures to both the terminal and a file for the report.
 LOG_PATH.parent.mkdir(parents=True, exist_ok=True)
 logging.basicConfig(
