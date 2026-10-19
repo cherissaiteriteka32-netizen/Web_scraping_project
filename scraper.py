@@ -153,7 +153,10 @@ def clean_text(node) -> str | None:
     value = node.get_text(" ", strip=True)
     return value or None
 
-
+# GAME INFORMATION EXTRACTION
+# This function reads one game listing and extracts its details,
+# such as the title, developer, price, genre, platforms, and URL.
+# The extracted details are organized into a dictionary.
 def parse_game_card(card, rank: int, listing_url: str, scraped_at: str) -> dict:
     """Extract the assignment fields from one game card in the listing page."""
     # Title links are commonly marked .title; use fallbacks if the layout changes.
