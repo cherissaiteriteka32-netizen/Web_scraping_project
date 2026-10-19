@@ -5,7 +5,10 @@ search/checkout/download routes, bypass blocks, or use proxies to evade limits.
 Run locally with: python scraper.py
 """
 from __future__ import annotations
-
+# IMPORTING LIBRARIES
+# These libraries provide the tools needed for our web scraper.
+# They help us download web pages, extract information,
+#clean data, save files, and store information in a database.
 import csv
 import json
 import logging
