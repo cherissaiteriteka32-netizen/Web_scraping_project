@@ -143,7 +143,9 @@ def get_page(url: str) -> BeautifulSoup:
                 time.sleep(2 ** attempt)
     raise RuntimeError(f"Could not fetch {url}: {last_error}")
 
-
+# TEXT CLEANING
+# This function removes unnecessary spaces and formats text
+# so that the collected information is easier to read and use.
 def clean_text(node) -> str | None:
     """Return readable text from an HTML element, or None for a missing field."""
     if node is None:
