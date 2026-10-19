@@ -44,8 +44,10 @@ CLEAN_DIR = ROOT / "data" / "cleaned"
 DB_PATH = ROOT / "data" / "group8_itchio.sqlite"
 LOG_PATH = ROOT / "logs" / "scraper.log"
 
-# Logging
-
+# LOGGING AND SESSION SETUP
+# Logging records what the program is doing and helps us
+# identify errors. The session manages our website requests
+# and allows us to reuse connection settings.
 # Log progress and failures to both the terminal and a file for the report.
 LOG_PATH.parent.mkdir(parents=True, exist_ok=True)
 logging.basicConfig(
