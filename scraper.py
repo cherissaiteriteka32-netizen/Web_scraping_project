@@ -95,7 +95,11 @@ def check_robots() -> RobotFileParser:
     logging.info("robots.txt checked: target listing URL is allowed for this User-Agent.")
     return parser
 
-
+# WEB PAGE REQUEST HANDLING
+# This function requests a web page and checks whether the
+# request is allowed. It handles connection errors and retries
+# failed requests when appropriate, then returns the page
+# content for further processing.
 def get_page(url: str) -> BeautifulSoup:
     """Fetch and parse one permitted HTML page with retries and back-off."""
     global request_count, last_request_at
