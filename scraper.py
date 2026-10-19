@@ -1,4 +1,4 @@
-"""DSC2107 Group 8: responsible itch.io Top Sellers scraper.
+*"""DSC2107 Group 8: responsible itch.io Top Sellers scraper.
 
 The script collects public listing-card fields only. It does not log in, visit
 search/checkout/download routes, bypass blocks, or use proxies to evade limits.
@@ -64,7 +64,10 @@ session.headers.update({"User-Agent": USER_AGENT, "Accept-Language": "en-US,en;q
 request_count = 0
 last_request_at = 0.0
 
-
+# REQUEST DELAYS AND WEBSITE RULES
+# The delay helps prevent requests from being sent too quickly.
+# Website access rules are checked to help determine whether
+# the scraper is allowed to access the requested pages.
 def wait_between_requests() -> None:
     """Wait 2–5 seconds between requests, including requests to detail pages."""
     global last_request_at
