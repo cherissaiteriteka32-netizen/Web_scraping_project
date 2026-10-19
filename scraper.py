@@ -1,4 +1,4 @@
-^"""DSC2107 Group 8: responsible itch.io Top Sellers scraper.
+"""DSC2107 Group 8: responsible itch.io Top Sellers scraper.
 
 The script collects public listing-card fields only. It does not log in, visit
 search/checkout/download routes, bypass blocks, or use proxies to evade limits.
