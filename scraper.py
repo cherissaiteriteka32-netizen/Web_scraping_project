@@ -1,6 +1,28 @@
-*"""DSC2107 Group 8: responsible itch.io Top Sellers scraper.
+"""DSC2107 Group 8: responsible itch.io Top Sellers scraper.
+"""
+PROJECT: WEB SCRAPER FOR GAME LISTINGS
 
-The script collects public listing-card fields only. It does not log in, visit
+PURPOSE:
+To collect information about games listed on itch.io
+and prepare the information for data analysis.
+
+HOW THE PROGRAM WORKS:
+1. Connects to the website and requests pages.
+2. Finds game listings and extracts their details.
+3. Removes duplicate game records.
+4. Saves the original data in CSV and JSON formats.
+5. Cleans price information.
+6. Saves the cleaned data and records in an SQLite database.
+
+EXPECTED RESULT:
+A collection of game records that can be examined and
+used for further data analysis.
+
+NOTE:
+The number of records collected depends on the available
+listings and whether the scraping process completes successfully.
+"""
+The script collects public listing-card fields only. It does not log in, visit"
 search/checkout/download routes, bypass blocks, or use proxies to evade limits.
 Run locally with: python scraper.py
 """
