@@ -85,6 +85,7 @@ logging.basicConfig(
 # A session reuses the connection. A clear User-Agent identifies the project.
 session = requests.Session()
 session.headers.update({"User-Agent": USER_AGENT, "Accept-Language": "en-US,en;q=0.9"})
+# Tracking request
 request_count = 0
 last_request_at = 0.0
 
