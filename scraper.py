@@ -55,11 +55,13 @@ from bs4 import BeautifulSoup
 BASE_URL = "https://itch.io/games/top-sellers"
 ROBOTS_URL = "https://itch.io/robots.txt"
 USER_AGENT = "DSC2107-Group8-Course-Project (wmubs4@gmail.com)"
+# Limits and delays
 TARGET_COUNT = 500                         # Assignment asks for top 500 items.
 MAX_REQUESTS_PER_RUN = 1000                # Assignment's approximate daily cap.
 MIN_DELAY_SECONDS = 2.0                    # Assignment requires 2–5 seconds.
 MAX_DELAY_SECONDS = 5.0
 MAX_RETRIES = 3
+# File and folder paths
 ROOT = Path(__file__).resolve().parent
 RAW_DIR = ROOT / "data" / "raw"
 CLEAN_DIR = ROOT / "data" / "cleaned"
