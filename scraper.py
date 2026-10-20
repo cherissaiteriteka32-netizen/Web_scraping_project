@@ -93,6 +93,8 @@ last_request_at = 0.0
 # The delay helps prevent requests from being sent too quickly.
 # Website access rules are checked to help determine whether
 # the scraper is allowed to access the requested pages.
+
+#control of the delay between HTTP requests 
 def wait_between_requests() -> None:
     """Wait 2–5 seconds between requests, including requests to detail pages."""
     global last_request_at
@@ -102,7 +104,7 @@ def wait_between_requests() -> None:
         if elapsed < required_delay:
             time.sleep(required_delay - elapsed)
 
-
+# Check the sites crawler instructions 
 def check_robots() -> RobotFileParser:
     """Read robots.txt and stop if the target listing route is disallowed."""
     parser = RobotFileParser()
